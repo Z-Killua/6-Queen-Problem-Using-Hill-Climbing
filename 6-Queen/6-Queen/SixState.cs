@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _6Queens
+namespace _6_Queen
 {
     class SixState
     {
@@ -16,7 +16,6 @@ namespace _6Queens
         {
             Y[0] = Y[1] = Y[2] = Y[3] = Y[4] = Y[5] = a;
         }
-
         public SixState(int a, int b, int c, int d, int e, int f)
         {
             Y[0] = a;
@@ -26,7 +25,6 @@ namespace _6Queens
             Y[4] = e;
             Y[5] = f;
         }
-
         public SixState(SixState f)
         {
             Y[0] = f.Y[0];

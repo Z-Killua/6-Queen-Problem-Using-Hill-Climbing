@@ -1,0 +1,10 @@
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 4\6-Queen Problem\6-Queen\6-Queen\bin\Debug\6-Queen.exe.config
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 4\6-Queen Problem\6-Queen\6-Queen\bin\Debug\6-Queen.exe
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 4\6-Queen Problem\6-Queen\6-Queen\bin\Debug\6-Queen.pdb
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 4\6-Queen Problem\6-Queen\6-Queen\obj\Debug\6-Queen.csproj.AssemblyReference.cache
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 4\6-Queen Problem\6-Queen\6-Queen\obj\Debug\_6_Queen.Form1.resources
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 4\6-Queen Problem\6-Queen\6-Queen\obj\Debug\_6_Queen.Properties.Resources.resources
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 4\6-Queen Problem\6-Queen\6-Queen\obj\Debug\6-Queen.csproj.GenerateResource.cache
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 4\6-Queen Problem\6-Queen\6-Queen\obj\Debug\6-Queen.csproj.CoreCompileInputs.cache
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 4\6-Queen Problem\6-Queen\6-Queen\obj\Debug\6-Queen.exe
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 4\6-Queen Problem\6-Queen\6-Queen\obj\Debug\6-Queen.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0DA7043A-A051-4995-A374-446D6FDE29DC}</ProjectGuid>
+    <ProjectGuid>{56A377F0-6D7E-4248-818D-01A7ED927A59}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_6Queens</RootNamespace>
-    <AssemblyName>6Queens</AssemblyName>
+    <RootNamespace>_6_Queen</RootNamespace>
+    <AssemblyName>6-Queen</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
